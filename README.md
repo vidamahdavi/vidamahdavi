@@ -15,10 +15,33 @@ Cybersecurity expert completing a Master’s degree at Georgia Tech (August 2026
 - Google Cybersecurity Professional Certificate  
 - Automate Cybersecurity Tasks with Python  
 
-## 📂 Projects
-- **Splunk Web Server Compromise Report**
-– Incident response project with timeline and lessons learned  
-- **CTF Write-ups** – Documentation of challenges solved on TryHackMe  
+## 📂 Featured Projects
+
+🔐 Security Audit & Risk Assessment
+
+* Conducted a security audit using NIST Cybersecurity Framework (CSF)
+* Identified risks, vulnerabilities, and compliance gaps
+* Provided actionable security recommendations
+  🔗 https://github.com/vidamahdavi/botium-toys-it-audit
+
+---
+
+🚨 Incident Response Analysis (DoS Attack)
+
+* Analyzed a real-world DoS attack using NIST CSF phases
+* Documented detection, response, and recovery strategies
+* Improved network security posture through structured analysis
+  🔗 https://github.com/vidamahdavi/incident-report-analysis
+
+---
+
+⚙️ IP Allow List Automation (Python)
+
+* Developed a Python algorithm to manage access control
+* Automated removal of unauthorized IP addresses
+* Improved security efficiency and reduced manual errors
+  🔗 https://github.com/vidamahdavi/ip-allow-list-automation
+  
 
 ## 📫 Contact
 - 📧 Email: **vidamahdavi@gmail.com**  
