@@ -17,11 +17,7 @@ Cybersecurity professional completing a Master’s degree at Georgia Tech (Augus
 - Operating Systems: Linux, Windows  
 - Programming: Python, Bash  
 - Networking: TCP/IP, troubleshooting (ping, traceroute, netstat)  
-- Security Frameworks: NIST CSF
-  
-## 📜 Certifications
-- Google Cybersecurity Professional Certificate  
-- Automate Cybersecurity Tasks with Python  
+- Security Frameworks: NIST CSF 
 
 ## 📂 Featured Projects
 ---
@@ -44,6 +40,10 @@ Cybersecurity professional completing a Master’s degree at Georgia Tech (Augus
   🔗 https://github.com/vidamahdavi/ip-allow-list-automation
 ---
 
+## 📜 Certifications
+- Google Cybersecurity Professional Certificate  
+- Automate Cybersecurity Tasks with Python
+  
 ## 🎯 Current Focus
 - Building hands-on cybersecurity projects  
 - Strengthening SIEM and threat detection skills  
