@@ -1,7 +1,7 @@
 # 👩‍💻 Vida Mahdavi – Cybersecurity Portfolio
 
 ## 📝 Professional Statement
-I am a Master's student in Cybersecurity at Georgia Tech, where I excel in the areas of attention to detail, time management, and an ethical mindset.  My passion for safeguarding systems and data from evolving threats is driven by my commitment to the protection of individuals and organizations.  I possess strong analytical and problem-solving abilities that can contribute to the security objectives of organizations by guaranteeing the confidentiality, integrity, and availability of information, as I continue to develop my technical skills in Linux and get deeper connected with Python.
+Cybersecurity expert completing a Master’s degree at Georgia Tech (August 2026) with practical expertise in threat detection, incident response, and security automation. Proficient in implementing frameworks like as NIST CSF and utilizing technologies including Python, Linux, and SIEM for the protection of systems and data.
 
 ## 🛠 Skills  
 - **SQL** 
