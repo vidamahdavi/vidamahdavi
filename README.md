@@ -40,6 +40,11 @@ Cybersecurity professional completing a Master’s degree at Georgia Tech (Augus
   🔗 https://github.com/vidamahdavi/ip-allow-list-automation
 ---
 
+## 🎓 Georgia Tech Coursework
+
+- GeorgiaTech Cybersecurity Projects (Honor Code Compliant)  
+🔗 https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework
+
 ## 📜 Certifications
 - Google Cybersecurity Professional Certificate  
 - Automate Cybersecurity Tasks with Python
