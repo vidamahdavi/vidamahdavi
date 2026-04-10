@@ -25,7 +25,7 @@ Cybersecurity professional completing a Master’s degree at Georgia Tech (Augus
   
 ## 📂 Featured Projects
 
-🔐 Security Audit & Risk Assessment(NIST CSF)
+🔐 Security Audit & Risk Assessment (NIST CSF)
 - Conducted a security audit using NIST Cybersecurity Framework (CSF)
 - Identified risks, vulnerabilities, and compliance gaps
 - Provided actionable security recommendations
